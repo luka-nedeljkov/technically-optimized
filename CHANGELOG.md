@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.0.2 (2023-06-22)
+
+* Fixed Fast Left Click being on by default
+
 ### 1.0.1 (2023-06-22)
 
 * Changed pauseOnLostFocus to false
