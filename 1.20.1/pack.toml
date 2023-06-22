@@ -1,0 +1,13 @@
+name = "Technically Optimized"
+author = "Looney"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20eef77ddc624acf622041cf8a12ba6c6d1b29bf43425f589b5bc3e55766c3b6"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
