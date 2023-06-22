@@ -37,8 +37,13 @@ Masa's mods:
 
 Shaders and resource packs:
 * Vanilla tweaks selection of packs
+* Old Enchantment Glint
 * BSL Shaders - [Modrinth](https://modrinth.com/shader/bsl-shaders)  
 
-Removals:
+### Removals:
+
+* Hold That Chunk (Modrinth)  
+* Farsight (Curseforge)  
+* FastQuit (Waiting for 1.20.1 version)  
 * Chat Reporting Helper  
 * Fast Better Grass  
