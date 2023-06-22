@@ -142,7 +142,7 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4dc8fabcc838d6aef1fa43970e54ff6007689d408c401d5c5325db64bbffcd4c"
+hash = "3ece6ecff9ea95d679e33b7370b8794c7bc55951ac7f70586bae78499a862138"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -482,10 +482,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "7c6b0dcec2beb3065b378d6a75fb53d69fc83cc0ad70ae44909fec69b5549a4c"
-
-[[files]]
-file = "resourcepacks/Old Enchantment Glint.zip"
-hash = "0dc5981ba86a1b105608fec6dbe5af9b2ccf23c9f1b43ed8c2832e0fec915a06"
 
 [[files]]
 file = "resourcepacks/Ore Borders 1.20.1.zip"

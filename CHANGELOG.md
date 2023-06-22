@@ -3,7 +3,12 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
-### 1.0.0 (2023-06-22) [FO version: 5.1.0-beta3]
+### 1.0.1 (2023-06-22)
+
+* Changed pauseOnLostFocus to false
+* Removed Old Enchant Glint
+
+### 1.0.0 (2023-06-22)
 
 First release for Modrinth
 

@@ -37,7 +37,6 @@ Masa's mods:
 
 Shaders and resource packs:
 * Vanilla tweaks selection of packs
-* Old Enchantment Glint
 * BSL Shaders - [Modrinth](https://modrinth.com/shader/bsl-shaders)  
 
 Removals:

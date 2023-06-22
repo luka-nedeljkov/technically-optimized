@@ -11,8 +11,9 @@ gamma:1.0
 renderDistance:16
 simulationDistance:16
 guiScale:2
-resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","continuity:default","continuity:glass_pane_culling_fix","file/Vanilla Tweaks 1.20.1.zip","file/Old Enchantment Glint.zip"]
+resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","file/Vanilla Tweaks 1.20.1.zip","continuity:default","continuity:glass_pane_culling_fix"]
 advancedItemTooltips:true
+pauseOnLostFocus:false
 tutorialStep:none
 mouseSensitivity:0.4
 skipMultiplayerWarning:true
