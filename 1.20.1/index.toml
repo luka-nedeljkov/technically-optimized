@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "34d85cb62d4ae851d1ead6a43a9a2064a8a212c01332be5b93aa084608c59d8c"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
@@ -59,10 +63,6 @@ hash = "77c1da57544e2ec83be7abf3ab2db2ace3c179ef0d62f583741d60cf7e577177"
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "438462a167c235d92176206deccedcbbbf9e72c3d3ffcf133e99d9ec18f6964f"
-
-[[files]]
-file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "89ce22096fa888ddd781a8bfadf78a1f337bd0cfc4af71ebc5b71a9ab1b3c960"
 
 [[files]]
 file = "config/yosbr/config/itemscroller.json"

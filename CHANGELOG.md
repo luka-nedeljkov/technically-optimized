@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.0.5 (2023-06-27) [FO version: 5.1.0-beta5]
+
+* Moved Main Menu Credits config from YOSBR to config root
+
 ### 1.0.4 (2023-06-27) [FO version: 5.1.0-beta5]
 
 * Added ClickThrough Continued
