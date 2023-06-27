@@ -62,7 +62,7 @@ hash = "438462a167c235d92176206deccedcbbbf9e72c3d3ffcf133e99d9ec18f6964f"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "25a1fab81a2896c20b052d411c068c32c6629aa775c31ac536c0cc6619398b49"
+hash = "89ce22096fa888ddd781a8bfadf78a1f337bd0cfc4af71ebc5b71a9ab1b3c960"
 
 [[files]]
 file = "config/yosbr/config/itemscroller.json"
@@ -146,7 +146,7 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "59ead382b46e28102ecb13923b4a7daa70ccd9a8c5f7315557eb9816a5fbadc8"
+hash = "1a86699e17d7377f97522745761a51c56b0e4f6c43964094d13f646b2c81de86"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
