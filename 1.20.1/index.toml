@@ -45,6 +45,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 
 [[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "452c42b95f51e8660fc93574cb4027df1ce8ada961ae218bce6bd7c592e0f3b1"
+
+[[files]]
 file = "config/yosbr/config/fastquit-config.txt"
 hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
 
@@ -131,6 +135,10 @@ hash = "36a890045fce4aa69f1c550d5a49a62b336cbb7911a7afa6956fcce5d4d9dcb8"
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "e40498f0e097f655770fc8698567618b62322088abc98d863f0a80ba69a239bf"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "73e82efaf6bf858bb12ad11b42c9ec0be33b2aeb24dedc90db793c01987b60a9"
 
 [[files]]
 file = "config/yosbr/hotbar.nbt"
