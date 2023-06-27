@@ -1,12 +1,12 @@
 name = "Technically Optimized"
 author = "Looney"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f0238c7771841ed038ab4d7cb2ce288b8d88e1b04d678fc4e235354715fa609"
+hash = "c6f5b6d2ca8baa497b99d5267c63554e7cc06362886436d598cd0c0e7e8d6e45"
 
 [versions]
 fabric = "0.14.21"

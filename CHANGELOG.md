@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.0.4 (2023-06-27) [FO version: 5.1.0-beta5]
+
+* Added ClickThrough Continued
+* Fixed Hostile Mobs volume being 50% instead of 5%
+
 ### 1.0.3 (2023-06-27) [FO version: 5.1.0-beta5]
 
 * Added Enhanced Block Entities, FastQuit
