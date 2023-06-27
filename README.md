@@ -11,9 +11,6 @@ Utility:
 * Better Statistics Screen - [Modrinth](https://modrinth.com/mod/better-stats)  
 * Carpet Mod - [Modrinth](https://modrinth.com/mod/carpet)  
 * Carpet Extra - [Modrinth](https://modrinth.com/mod/carpet-extra)  
-* ~~ClickThrough~~ **Waiting for 1.20.1 version**  
-* ~~Disable Custom Worlds Advice~~ **Waiting for 1.20.1 version**  
-* ~~Enhanced Block Entities~~ **Waiting for 1.20.1 version**  
 * Inventory Sorter - [Modrinth](https://modrinth.com/mod/inventory-sorting)  
 * Jamlib - [Modrinth](https://modrinth.com/mod/jamlib)  
 * Librarian Trade Finder - [Modrinth](https://modrinth.com/mod/librarian-trade-finder)  
@@ -36,14 +33,13 @@ Masa's mods:
 * Tweakeroo - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/tweakeroo)  
 
 Shaders and resource packs:
-* Vanilla tweaks selection of packs
-* Old Enchantment Glint
+* Vanilla tweaks selection of packs - [Vanilla Tweaks](https://vanillatweaks.net/)
+* Ore Borders (also Vanilla Tweaks linked above)
 * BSL Shaders - [Modrinth](https://modrinth.com/shader/bsl-shaders)  
 
 ### Removals:
 
 * Hold That Chunk (Modrinth)  
 * Farsight (Curseforge)  
-* FastQuit (Waiting for 1.20.1 version)  
 * Chat Reporting Helper  
 * Fast Better Grass  

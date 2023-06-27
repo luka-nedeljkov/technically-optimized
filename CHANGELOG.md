@@ -3,16 +3,26 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
-### 1.0.2 (2023-06-22)
+### 1.0.3 (2023-06-27) [FO version: 5.1.0-beta5]
+
+* Added Enhanced Block Entities, FastQuit
+* Removed Better Beds - Replaced by EBE
+* Removed 3D Vanilla Tweaks modules
+* Updated Better Statistics Screen (Fabric), Borderless Mining, Controlify, Entity Model Features, Entity Texture Features, Fabric Language Kotlin, FerriteCore, Language Reload, Model Gap Fix, No Chat Reports, Remove Reloading Screen, ShulkerBoxTooltip
+* Updated Zoomify and Fabrishot config
+* Fixed Main Menu Credits showing "Technically Optimized 1.0.0" instead of correct version
+* Fixed Entity Culling and Memory Leak Fix being Forge versions
+
+### 1.0.2 (2023-06-22) [FO version: 5.1.0-beta3]
 
 * Fixed Fast Left Click being on by default
 
-### 1.0.1 (2023-06-22)
+### 1.0.1 (2023-06-22) [FO version: 5.1.0-beta3]
 
 * Changed pauseOnLostFocus to false
-* Removed Old Enchant Glint
+* Removed Old Enchantment Glint
 
-### 1.0.0 (2023-06-22)
+### 1.0.0 (2023-06-22) [FO version: 5.1.0-beta3]
 
 First release for Modrinth
 
