@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.0.7 (2023-07-09) [FO version: 5.1.0-beta7]
+
+* Removed Mod Menu Helper
+
 ### 1.0.6 (2023-07-09) [FO version: 5.1.0-beta7]
 
 * Updated AdvancementInfo, AntiGhost, Better Statistics Screen, Controlify, Fabric Api, Fabric Language Kotlin, Fabrishot, ImmediatelyFast, Indium, Litematica, Malilib, Tweakeroo, YOSBR

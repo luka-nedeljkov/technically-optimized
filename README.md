@@ -43,3 +43,4 @@ Shaders and resource packs:
 * Farsight (Curseforge)  
 * Chat Reporting Helper  
 * Fast Better Grass  
+* Mod Menu Helper  

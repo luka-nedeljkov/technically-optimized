@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ae3027995f7d09f01367f35628d7d1fb178f20e7cf17ecf9ab10ddb7df0953ed"
+hash = "1e9207bff88963e236d83b0e7af5653837c4f9908f78daa8f53a3e495af161a8"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -492,10 +492,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "7c6b0dcec2beb3065b378d6a75fb53d69fc83cc0ad70ae44909fec69b5549a4c"
 
 [[files]]
 file = "resourcepacks/Ore Borders 1.20.1.zip"
