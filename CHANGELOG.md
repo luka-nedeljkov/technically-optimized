@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.0.6 (2023-07-09) [FO version: 5.1.0-beta7]
+
+* Updated AdvancementInfo, AntiGhost, Better Statistics Screen, Controlify, Fabric Api, Fabric Language Kotlin, Fabrishot, ImmediatelyFast, Indium, Litematica, Malilib, Tweakeroo, YOSBR
+
 ### 1.0.5 (2023-06-27) [FO version: 5.1.0-beta5]
 
 * Moved Main Menu Credits config from YOSBR to config root
