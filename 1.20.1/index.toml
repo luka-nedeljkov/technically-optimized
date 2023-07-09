@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1e9207bff88963e236d83b0e7af5653837c4f9908f78daa8f53a3e495af161a8"
+hash = "f2d27ab725755f1d04f11463fef82d4c5a942917b941a820f7846862bea8b053"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -35,10 +35,6 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
