@@ -11,6 +11,7 @@ Utility:
 * Better Statistics Screen - [Modrinth](https://modrinth.com/mod/better-stats)  
 * Carpet Mod - [Modrinth](https://modrinth.com/mod/carpet)  
 * Carpet Extra - [Modrinth](https://modrinth.com/mod/carpet-extra)  
+* Emoji Type - [Modrinth](https://modrinth.com/mod/emoji-type)
 * Inventory Sorter - [Modrinth](https://modrinth.com/mod/inventory-sorting)  
 * Jamlib - [Modrinth](https://modrinth.com/mod/jamlib)  
 * Librarian Trade Finder - [Modrinth](https://modrinth.com/mod/librarian-trade-finder)  

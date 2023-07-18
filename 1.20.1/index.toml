@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b0c9e5403e8ab4200bf02b87212f9d6efb8465280b34f7445367141634d40193"
+hash = "3d684fa9eb6dc458b19e64257e426eab289bc59b9aedcb751bad9ea751a35176"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "c8cc509857d7acf67847e437776982f29b127d614f450e825dd14fabee60900d"
 metafile = true
 
 [[files]]
