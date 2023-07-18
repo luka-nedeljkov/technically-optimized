@@ -18,6 +18,7 @@ Utility:
 * Right Click Harvest - [Modrinth](https://modrinth.com/mod/rightclickharvest)  
 * Screenshot to Clipboard - [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard)  
 * Shulker Box Tooltip - [Modrinth](https://modrinth.com/mod/shulkerboxtooltip)  
+* Text Utilities - [Modrinth](https://modrinth.com/mod/text-utilities)
 * Textile Backup - [Modrinth](https://modrinth.com/mod/textile_backup)  
 * WorldEdit - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/worldedit)  
 

@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.1.0 (2023-07-18) [FO version: 5.1.0]
+
+* Added Text Utilities
+* Updated Cloth Config API, Controlify, Debugify, e4mc, Entity Model Features, Fabric API, FabricSkyBoxes, FabricSkyBoxes Interop, Indium, Mod Menu, OptiGUI, Puzzle, Sodium Extra
+* Removed ClickThrough Continued
+
 ### 1.0.8 (2023-07-09) [FO version: 5.1.0-beta8]
 
 * Removed Debugify config from YOSBR

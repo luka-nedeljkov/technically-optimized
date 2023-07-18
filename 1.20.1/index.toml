@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2d27ab725755f1d04f11463fef82d4c5a942917b941a820f7846862bea8b053"
+hash = "b0c9e5403e8ab4200bf02b87212f9d6efb8465280b34f7445367141634d40193"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -114,7 +114,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "76285106ce8bc9999558fecef5ca3c49ec324cac1212745cb3d351bb602408ae"
+hash = "fc0ac558d8f72a37097f4a5974f76bbc1720f3e1ab2a4ad1e2d9ce3d295eb4e5"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -200,13 +200,8 @@ hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
-file = "mods/clickthrough-continued.pw.toml"
-hash = "9bf9c87541424695c92cb8f1a23e6b464af763991d82745dd4cd4d701220ab53"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
@@ -216,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a7eb649ab37308f1df71985df3c41329c1d7055ecc0946925b31c4c567295aed"
+hash = "6f6700ec1170d64907372f36b98abf151bd47809419bcfaf619698fb76a90cd0"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
@@ -231,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b03c0c9616b8e790ca01054d8be91c2d6b62b26e7c9262ec7b0a70fb07e6a7f5"
+hash = "b066bbf1fd98c8ec52dfb0d9f041572b4d1680ddf33932266ce334800891338d"
 metafile = true
 
 [[files]]
@@ -241,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4e3baa9e0fc7c2263e325aa6a60fc97fda722fbf0c82520b0430cec6fad68199"
+hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
 metafile = true
 
 [[files]]
@@ -256,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
@@ -266,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
+hash = "97a743edee2ff1be103f976bb56a23cef3718881da058ba4459f1f30c4cd3156"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "08b843dfc24cc97afeba5b3a60a1263c8aa4fc786398a1972cc69741f0253e22"
+hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
 metafile = true
 
 [[files]]
@@ -301,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3903f1a1e5d995906578f94c41036f7d04bdc2b33e1420fc3c34537c8abd4c02"
+hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
@@ -381,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -406,12 +401,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
 
 [[files]]
@@ -441,12 +436,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/text-utilities.pw.toml"
+hash = "462f08f9c39667e8a674b8c3ed62a0dad501e880aed511a02644e54ae11679c7"
 metafile = true
 
 [[files]]

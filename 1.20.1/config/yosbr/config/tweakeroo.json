@@ -391,7 +391,7 @@
       }
     },
     "disableDeadMobTargeting": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
