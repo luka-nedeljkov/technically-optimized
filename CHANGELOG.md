@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.1.2 (2023-07-21) [FO version: 5.1.0]
+
+* Updated Fabric Language Kotling, OptiGUI
+
 ### 1.1.1 (2023-07-19) [FO version: 5.1.0]
 
 * Added Emoji Type

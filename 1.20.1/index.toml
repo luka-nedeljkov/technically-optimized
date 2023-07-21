@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3d684fa9eb6dc458b19e64257e426eab289bc59b9aedcb751bad9ea751a35176"
+hash = "e88df32dcfa2107afe87296e38116034d9da81a68a4d3bebb54115f1caa3ed1b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -78,7 +78,7 @@ hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "c585f331f4e4964627378d089656dd19bfc52548fb91eb1a078a7ca6a6d89bb3"
+hash = "802dd444f2a145925f885269f77394b8e9f3c2c07b7da0b27632b6c567b7d033"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -114,7 +114,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/tweakeroo.json"
-hash = "fc0ac558d8f72a37097f4a5974f76bbc1720f3e1ab2a4ad1e2d9ce3d295eb4e5"
+hash = "356165398094614f783bd9cd7c7583954df3b9c2b7920ef9cdb42494de46b954"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "e697002e593a54c31759e3849eaae1be9bcdff0d8ffc667c95d7fdf5bf59d979"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]
