@@ -1,13 +1,13 @@
 name = "Emoji Type"
-filename = "emoji-type-2.1.0+1.20.jar"
+filename = "emoji-type-2.2.0+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/q7vRRpxU/versions/vxFNEeJM/emoji-type-2.1.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/q7vRRpxU/versions/KeZkpifk/emoji-type-2.2.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "a9182cc0c28c6dc08909544995ced270b3ff95cf"
+hash = "92746b11f466d3a0cf18c2c90ef2f324c5e546c5"
 
 [update]
 [update.modrinth]
 mod-id = "q7vRRpxU"
-version = "vxFNEeJM"
+version = "KeZkpifk"

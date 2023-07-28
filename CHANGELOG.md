@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.1
 
+### 1.1.3 (2023-07-28) [FO version: 5.2.0]
+
+* Updated Continuity, Controllify, Emoji Type, Fabric API, ImmediatelyFast, JamLib, Reese's Sodium Options, Text Utilities, Xaero's Minimap, Xaero's World Map, YetAnotherConfigLib
+
 ### 1.1.2 (2023-07-21) [FO version: 5.1.0]
 
 * Updated Fabric Language Kotling, OptiGUI
