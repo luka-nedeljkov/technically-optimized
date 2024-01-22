@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.2
 
+### 1.2.1 (2024-01-22) [FO version: 5.6.4]
+
+* Enabled Borderless Mining in config
+* Added Block Meter, Client Commands, Controlling For Fabric, Searchables
+
 ### 1.2.0 (2024-01-19) [FO version: 5.6.4]
 
 **Update to 1.20.2**

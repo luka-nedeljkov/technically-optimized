@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/borderlessmining.json"
+hash = "c7b2f63c1b8baad4081edac62164d26b6392df762e0c008d04b6c69290395c4f"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "075e2ba70bf164aba95c41e8ef0e8cc8feeb48b58f7f1049633c81ad83733103"
+hash = "1b7119742b37cebcd9df075adf70999352cdf1496c19d40dbf03a8ab8c8ba637"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -15,10 +19,6 @@ hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -174,6 +174,11 @@ hash = "4c8aad1235dcdfd05a12fddfaea761c8c5320d5398bf8939353e188267670835"
 metafile = true
 
 [[files]]
+file = "mods/blockmeter.pw.toml"
+hash = "467a5c5406b3bedce186e4789ebc38fa322f70513f5aaf473e8309b5ae42c372"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
 metafile = true
@@ -199,6 +204,11 @@ hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
+file = "mods/client-commands.pw.toml"
+hash = "668a056b09f1f8006b0c0481e4b7bd3511df5bf7d20455a829f950da4d0a8688"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c6fb2a9c31fe297e65fbb72c20967c498860168082a5d7881487dcb1a61ac72c"
 metafile = true
@@ -211,6 +221,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "335a3e3cc516a22791b0f5d9f544fa16ccd1b085691fd1bc384decdb81de584e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "139c6b7a011caf0794521532f0a1a606411732ee56af73aef5b8e55567490c22"
 metafile = true
 
 [[files]]
@@ -441,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "c9a99090e6a8e60a2a445ab1b653dd74107e4b010ad210916ab64a62373817be"
 metafile = true
 
 [[files]]
