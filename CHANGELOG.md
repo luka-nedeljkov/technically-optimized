@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.2
 
+### 1.2.2 (2024-02-03) [FO version: 5.6.5]
+
+* Updated Better Statistics Screen, Fabric API, ImmedietlyFast, MoreChatHistory, Xaero's Minimap, Xaero's World Map
+* Enabled end gateway culling in MoreCulling
+
 ### 1.2.1 (2024-01-22) [FO version: 5.6.4]
 
 * Enabled Borderless Mining in config
