@@ -1,0 +1,13 @@
+name = "Librarian Trade Finder"
+filename = "librarian-trade-finder-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cpbKeMPQ/versions/DoPkC2Fy/librarian-trade-finder-2.1.1.jar"
+hash-format = "sha1"
+hash = "156d604cc250ece6df03143b75f2967acd81051e"
+
+[update]
+[update.modrinth]
+mod-id = "cpbKeMPQ"
+version = "DoPkC2Fy"

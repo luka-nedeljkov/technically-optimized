@@ -1,6 +1,14 @@
 # Technically Optimized changelog
 This is the changelog for the Fabric modpack [Technically Optimized](https://modrinth.com/modpack/technicallyoptimized).
 
+## 1.20.4
+
+### 1.3.0 (2024-06-06) FO version: 5.10.2
+
+**Update to 1.20.4**
+* Added Cubes Without Borders, Polytone
+* Removed Borderless Mining, Fadeless, No Telemetry, Textile Backup
+
 ## 1.20.2
 
 ### 1.2.2 (2024-02-03) [FO version: 5.6.5]
@@ -17,7 +25,7 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 **Update to 1.20.2**
 * Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
-* Added ModernFix -faster launch and world loading, reduced RAM usage
+* Added ModernFix - faster launch and world loading, reduced RAM usage
 * Added Paginated Advancements - a more vanilla-looking advancement screen, with the same requirement info
 * Updated LambDynamicLights, Sodium, Fabric API, No Telemetry, YetAnotherConfigLib, Emoji Type, Remove Reloading Screen, Iris Shaders, Puzzle, Continuity, Better Statistics Screen, Carpet Extra, Entity Texture Features, Indium, Memory Leak Fix, Dynamic FPS, Entity Culling, Language Reload, Xaero's World Map, Controlify, Enhanced Block Entities, ImmediatelyFast, Lithium, ShulkerBoxTooltip, Librarian Trade Finder, RightClickHarvest, Borderless Mining, Zoomify, Cloth Config API, Fabric Language Kotlin, No Chat Reports, Reese's Sodium Options, Sodium Extra, Xaero's Minimap, Mod Menu, More Culling, OptiGUI, Capes, e4mc, Carpet, Fabrishot, FastQuit, FerriteCore, Debugify, FabricSkyBoxes Interop, FabricSkyboxes, Textile Backup, JamLib, Better Ping Display, Entity Model Features, WorldEdit, Item Scroller, MaLiLib, Litematica, MiniHUD, Tweakeroo
 * Removed AdvancementInfo
