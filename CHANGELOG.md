@@ -1,9 +1,19 @@
 # Technically Optimized changelog
 This is the changelog for the Fabric modpack [Technically Optimized](https://modrinth.com/modpack/technicallyoptimized).
 
+## 1.20.6
+
+### 1.4.0 (2024-06-26) [FO version: 5.12.0-beta.8-mr.1]
+
+**Update to 1.20.6**
+* Cleaned up configs
+* Moved Carpet and Carpet Extra source from Modrinth to Curseforge
+* Removed Better Statistics Screen, Block Meter, Controlling, Jamlib, Memory Leak Fix, Right Click Harvest, Searchables
+* Temporarily removed CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, Text Utilities
+
 ## 1.20.4
 
-### 1.3.0 (2024-06-06) FO version: 5.10.2
+### 1.3.0 (2024-06-06) [FO version: 5.10.2]
 
 **Update to 1.20.4**
 * Added Cubes Without Borders, Polytone
