@@ -1,6 +1,14 @@
 # Technically Optimized changelog
 This is the changelog for the Fabric modpack [Technically Optimized](https://modrinth.com/modpack/technicallyoptimized).
 
+## 1.21
+
+### 1.5.0 (2024-07-01) [FO version: 6.0.0-beta.2]
+
+**Update to 1.21**
+* Moved Masa mods source to Sakura-Ryoko's github
+* Temporarily removed Better mount HUD, CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, MoreCulling, Text Utilities
+
 ## 1.20.6
 
 ### 1.4.1 (2024-07-01) [FO version: 5.12.0-beta.8-mr.1]

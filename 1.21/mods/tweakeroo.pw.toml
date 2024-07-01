@@ -1,0 +1,8 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.21-0.20.999-sakura.9.jar"
+side = "client"
+
+[download]
+url = "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21-sakura.9/tweakeroo-fabric-1.21-0.20.999-sakura.9.jar"
+hash-format = "sha1"
+hash = "69bc61c69aaa11af73fb33773c83e3674c0bf43b"
