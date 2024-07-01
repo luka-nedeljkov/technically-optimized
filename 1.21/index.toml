@@ -86,7 +86,7 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3e0ee679c70afdc5e27e2e0e9558b25cd5cb6fa720f16412728c886854c0edd9"
+hash = "0b6739df09b4e295dffd518e7b494e0d3f4719f7821604b67b14b5b57669c6c0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6c6ccf6527a0e5d4d66e1ee846b21b0f0c5f396ce72e91d8c4f105fba95585c5"
+hash = "c92360b6f3d4c1e594508936efd129f22576d2d6c54e95e0094794b23cc0538e"
 metafile = true
 
 [[files]]
@@ -384,13 +384,9 @@ hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Ore Borders 1.20.6.zip"
-hash = "726d626ba674ab6792d53654d8062e67fa46f27b39be2b26fa7e8ad6a78befec"
+file = "resourcepacks/Ore Borders 1.21.zip"
+hash = "8ccb1302c0dce98afabf0534ace4da103ded27a7ef5ba9dfdad85aa359b02cc3"
 
 [[files]]
-file = "resourcepacks/Vanilla Tweaks 1.20.6.zip"
-hash = "d206966f071d9111d19fb34cc4037117dc2b73c84acfa363a49bcdd24bf3ce45"
-
-[[files]]
-file = "shaderpacks/BSL_v8.2.09.zip"
-hash = "b9f9e70c83f04830007ec06e6d7c3e0fafe90c6af53355e4248ab0a59ca1cf48"
+file = "resourcepacks/Vanilla Tweaks 1.21.zip"
+hash = "b5200d3b416db447cf3e0688f603a3573731fee6508d5a7f4e7d0027e3a51b6c"
