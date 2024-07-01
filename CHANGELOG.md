@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.20.6
 
+### 1.4.1 (2024-07-01) [FO version: 5.12.0-beta.8-mr.1]
+
+* Updated Dynamic FPS, Iris Shaders
+* Temporarily removed CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, Text Utilities
+
 ### 1.4.0 (2024-06-26) [FO version: 5.12.0-beta.8-mr.1]
 
 **Update to 1.20.6**

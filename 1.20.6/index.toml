@@ -1,64 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/capes.json5"
-hash = "d606118a703d0ea04244ad94a588888777ee6948e73e2e63b14e15f065fdc5f8"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "94cc9f978f7ca1760783b9771fcdf01036a6bb88b5fb82f52120b277e3743495"
-
-[[files]]
-file = "config/fabrishot.properties"
-hash = "3cf7486cfca498b0865e19e846f43b6021d40c7e90fe31b91c2b3f0c56e11f17"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8f64421145567dcb2697db3febf06097a5157c61d13d5ddaa3eda31ad3ea51b5"
+hash = "38b687b5aaa3c3e6a6693412b5778d07a84c25fab5bd9834361fa1ef1fdd6cf8"
 
 [[files]]
-file = "config/itemscroller.json"
-hash = "eef3d0a48dcc1360c86c3c7657ec017d524b88475ed01274c7583c0f39734dd2"
-
-[[files]]
-file = "config/litematica.json"
-hash = "967d98e14cfc1254ebd5636a7152a396e7fa3657c5838c1e2347c259bb8af67e"
-
-[[files]]
-file = "config/minihud.json"
-hash = "76dbadae33a966334b2c9042468dc9fded2db92f4d12aac2da457090296aa7b5"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "61984fc97080fd78961343a59733a9b1538ee2730a41700e92b1d5abd32d7506"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "ebc7a6a7d8a9da1c87d5eb028f941b5e7358187aa84a112f3b04d0f701ba4aa6"
-
-[[files]]
-file = "config/puzzle.json"
-hash = "65f0f8412c9c8af19d8ec5575e996bb25780c122ebf237948f6224931064601b"
-
-[[files]]
-file = "config/tweakeroo.json"
-hash = "f8aedf924d100a249812b10cedaa5b65c3ef93271546241f0167369ad9f55714"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "7a7f9e96a112ba419ab9c2c929436af9ae94ee39eca8985c2addf092a0488cdd"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "603e70d7df488860fb13cd96c1d8dbda623b1a583bd35312a5cb46902eed4194"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+file = "config/yosbr/config/capes.json5"
+hash = "d606118a703d0ea04244ad94a588888777ee6948e73e2e63b14e15f065fdc5f8"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "94cc9f978f7ca1760783b9771fcdf01036a6bb88b5fb82f52120b277e3743495"
+
+[[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "3cf7486cfca498b0865e19e846f43b6021d40c7e90fe31b91c2b3f0c56e11f17"
 
 [[files]]
 file = "config/yosbr/config/inventorysorter/config.json5"
@@ -69,8 +29,52 @@ file = "config/yosbr/config/iris.properties"
 hash = "a8b4a0ebf3c6a9c85dcaa5b3df10d6a82b4d24a7c11927a5e7f4ceba973047eb"
 
 [[files]]
+file = "config/yosbr/config/itemscroller.json"
+hash = "eef3d0a48dcc1360c86c3c7657ec017d524b88475ed01274c7583c0f39734dd2"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "967d98e14cfc1254ebd5636a7152a396e7fa3657c5838c1e2347c259bb8af67e"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "76dbadae33a966334b2c9042468dc9fded2db92f4d12aac2da457090296aa7b5"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "61984fc97080fd78961343a59733a9b1538ee2730a41700e92b1d5abd32d7506"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "ebc7a6a7d8a9da1c87d5eb028f941b5e7358187aa84a112f3b04d0f701ba4aa6"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "65f0f8412c9c8af19d8ec5575e996bb25780c122ebf237948f6224931064601b"
+
+[[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
 hash = "45bfb5101d1ba2bcc7dacc055afdcf9f48c1e950ff42a7ca86a99812116117c4"
+
+[[files]]
+file = "config/yosbr/config/tweakeroo.json"
+hash = "f8aedf924d100a249812b10cedaa5b65c3ef93271546241f0167369ad9f55714"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "7a7f9e96a112ba419ab9c2c929436af9ae94ee39eca8985c2addf092a0488cdd"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "603e70d7df488860fb13cd96c1d8dbda623b1a583bd35312a5cb46902eed4194"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "0219460a1b20b799be057393ed365a9693938200106bf511a2a0cc26b86bef11"
 
 [[files]]
 file = "config/yosbr/hotbar.nbt"
@@ -79,10 +83,6 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "3e0ee679c70afdc5e27e2e0e9558b25cd5cb6fa720f16412728c886854c0edd9"
-
-[[files]]
-file = "config/zoomify.json"
-hash = "0219460a1b20b799be057393ed365a9693938200106bf511a2a0cc26b86bef11"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8f1708007e0a51ad0a405cdbef7117796a564d1c4e13764de5803f364d1d7cc0"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dc113aedd21f6032f8894047d783be0b6b9f1359f7b908860870b553410e3bf4"
+hash = "860b83d5fe7aadcefa928fe156d38e46cf171b6102d5691758eb75da3fcdb799"
 metafile = true
 
 [[files]]
