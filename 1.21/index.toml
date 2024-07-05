@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "3698be37d34ae89f1f312a76c5e3404aa69cbc1f72c80a1013b5c6d30b013968"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1fcd749a630df870f33f63206e96c2a476d118a1a1ecb6edeff763fcef7f5344"
+hash = "1d2e9e718270bbefa1f1b8306aa06e8279921f42e5a1fc10fb1d96c9ff586cae"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -85,10 +81,6 @@ file = "config/yosbr/hotbar.nbt"
 hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "0b6739df09b4e295dffd518e7b494e0d3f4719f7821604b67b14b5b57669c6c0"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "58134b8f4cca95555746efad25cc8a56c39ed57ba05f78d3aa61b603d378180c"
 metafile = true
@@ -96,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
 metafile = true
 
 [[files]]
@@ -140,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
+hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
 metafile = true
 
 [[files]]
@@ -170,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8f0045c1f4b6a8bc0feeb64f6c95638383bb992b9dcc4cee0974ab85f6115b6e"
+hash = "a1041842c409ada82624134795d1f4412c4acb7dcc410a41c61e7853aead1dcd"
 metafile = true
 
 [[files]]
@@ -180,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "515494490fe23d76d26b544cb1ae46dfaeb4662c11ea543d09fdded6c486f649"
+hash = "bd026bd6a8e0b7bd8dc6802c733d09775eead2ad40c8f243917facfcd2e33e29"
 metafile = true
 
 [[files]]
@@ -225,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "dfc7306d9eeaa3f4ddb22e6ef73141eba09f1891a584fdeeacaa9fbb2d182a77"
+hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
@@ -235,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "82976d88eba7d0adbf9360bed682fd27d9f9619c256a07b3c12d126aa705f2fc"
+hash = "fbe9eb097a5650c3284cdd74ca29a79d1eae6c1db01790f8abbd2502cdc2466f"
 metafile = true
 
 [[files]]
@@ -245,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "24bca308ea4607ba350168375648d82f8b1b256bbc1286158f6b127047900bfc"
+hash = "90e39d8a57226d8d253230e1c1e6d67778118290c030b2430ff96ea815ee4e6b"
 metafile = true
 
 [[files]]
@@ -260,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "627529b9f732774477e1c027e6106bf0f89816fd825d90dbe45157eeb9fbb6b6"
+hash = "695c7a2698290b5b47c0646f57407a920489b8cd0d221cefdde866a6a6cb1005"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c92360b6f3d4c1e594508936efd129f22576d2d6c54e95e0094794b23cc0538e"
+hash = "89f07c320f0a3ea99e10fdac399cff003d25a11a156f30218c90348c649886d5"
 metafile = true
 
 [[files]]
@@ -280,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
 metafile = true
 
 [[files]]
@@ -325,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "084bc8025cd2898cf6d46f984c32edeb18da9b36743f2b35b53da6d3b025e3b1"
+hash = "03fdecfb95c2475b5c401fdddd1be41b6e656ff67cfb56381b4dc6c387a2d8e7"
 metafile = true
 
 [[files]]
@@ -350,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "4b25d26bf7107f5d0d33e5796474dea7176bbe80e4cff51919e4bd2bb4735b39"
+hash = "482ca4082e8c86c15f24845adad5ef69fb498f81d8ee437aff67d8f5dab5f517"
 metafile = true
 
 [[files]]
@@ -384,9 +381,5 @@ hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Ore Borders 1.21.zip"
-hash = "8ccb1302c0dce98afabf0534ace4da103ded27a7ef5ba9dfdad85aa359b02cc3"
-
-[[files]]
-file = "resourcepacks/Vanilla Tweaks 1.21.zip"
-hash = "b5200d3b416db447cf3e0688f603a3573731fee6508d5a7f4e7d0027e3a51b6c"
+file = "options.txt"
+hash = "d86c86261c8193d925aeda8466579c81be1bb98e78cf5e8fa124ac1e7388d8e7"
