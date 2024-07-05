@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21
 
-### 1.5.1 (2024-07-05) [FO version: 6.0.0-beta.2]
+### 2.0.1 (2024-07-05) [FO version: 6.0.0-beta.2]
 
 * Readded Better Mount HUD
 * Updated Cubes Without Borders, Entity Model Features, Entity Texture Features, Indium, Item Scroller, Litematica, Malilib, MiniHUD, ModernFix, Remove Reloading Screen, Tweakeroo
@@ -11,7 +11,7 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 * Removed resource and shader packs
 * Temporarily removed CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, MoreCulling, Text Utilities
 
-### 1.5.0 (2024-07-01) [FO version: 6.0.0-beta.2]
+### 1.5.0 (Should be 2.0.0) (2024-07-01) [FO version: 6.0.0-beta.2]
 
 **Update to 1.21**
 * Moved Masa mods source to Sakura-Ryoko's github
