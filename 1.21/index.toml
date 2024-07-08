@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1d2e9e718270bbefa1f1b8306aa06e8279921f42e5a1fc10fb1d96c9ff586cae"
+hash = "904160a890b8c4de36f2bfd0d803bb9d7e45aef956a5328664051af3abda490e"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "6aa7f8efd14a118b528b37e9aa5e43d754053d83589349b8a63bff320cb38995"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -53,10 +57,6 @@ file = "config/yosbr/config/puzzle.json"
 hash = "65f0f8412c9c8af19d8ec5575e996bb25780c122ebf237948f6224931064601b"
 
 [[files]]
-file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "45bfb5101d1ba2bcc7dacc055afdcf9f48c1e950ff42a7ca86a99812116117c4"
-
-[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "f8aedf924d100a249812b10cedaa5b65c3ef93271546241f0167369ad9f55714"
 
@@ -79,6 +79,10 @@ hash = "0219460a1b20b799be057393ed365a9693938200106bf511a2a0cc26b86bef11"
 [[files]]
 file = "config/yosbr/hotbar.nbt"
 hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d86c86261c8193d925aeda8466579c81be1bb98e78cf5e8fa124ac1e7388d8e7"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -182,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -231,9 +235,8 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "fbe9eb097a5650c3284cdd74ca29a79d1eae6c1db01790f8abbd2502cdc2466f"
-metafile = true
+file = "mods/itemscroller-fabric-1.21-0.23.999-sakura.3.jar"
+hash = "4cb619c8703629a9d6c474f4e95e3c27b5e7bff84304ff2a3002fd82dac0f211"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -241,9 +244,8 @@ hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "90e39d8a57226d8d253230e1c1e6d67778118290c030b2430ff96ea815ee4e6b"
-metafile = true
+file = "mods/litematica-fabric-1.21-0.18.999-sakura.14.jar"
+hash = "adcdadde8cecd35a52cc4d3bdd0c894cd56e2e2fb8b7dda267a14ffc8d6ed71c"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -256,14 +258,12 @@ hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
-file = "mods/malilib.pw.toml"
-hash = "695c7a2698290b5b47c0646f57407a920489b8cd0d221cefdde866a6a6cb1005"
-metafile = true
+file = "mods/malilib-fabric-1.21-0.19.999-sakura.6.jar"
+hash = "9a310d2c40a99f7adf5d8cf3bf045b6d1a77851226c798d74f5569e31de0a83d"
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "89f07c320f0a3ea99e10fdac399cff003d25a11a156f30218c90348c649886d5"
-metafile = true
+file = "mods/minihud-fabric-1.21-0.31.999-sakura.6.jar"
+hash = "e68f18dd6fe4db8822a2e694d45c49d3823139e3aaf445a48845c52c3bd8645a"
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc11c1fb39cdb35ac006ddd77bc33dc578e5ff1314ea76c2b9162ec5b53b10cd"
+hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0c7d6d3fb9f39347447186912979a56e0bce663d3dac24319cf22ac0440f5079"
+hash = "1266b1060e6eb2ee5abea378b641849afb6cd8eec11e8831789285b6b5c5dfb7"
 metafile = true
 
 [[files]]
@@ -346,14 +346,8 @@ hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
-file = "mods/tweakeroo.pw.toml"
-hash = "482ca4082e8c86c15f24845adad5ef69fb498f81d8ee437aff67d8f5dab5f517"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "185ede4e46e5f80854f79bce510396d8069e30b33d436a7b859b92054055eb10"
-metafile = true
+file = "mods/tweakeroo-fabric-1.21-0.20.999-sakura.12.jar"
+hash = "4b47e82ae66cc9643805a134962d28434f78dc3261f485e03c17dcf58ba9e4eb"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
@@ -379,7 +373,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "d86c86261c8193d925aeda8466579c81be1bb98e78cf5e8fa124ac1e7388d8e7"

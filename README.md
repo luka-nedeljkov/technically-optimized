@@ -16,18 +16,17 @@ Utility:
 * Screenshot to Clipboard - [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard)
 * Shulker Box Tooltip - [Modrinth](https://modrinth.com/mod/shulkerboxtooltip)
 * Text Utilities - [Modrinth](https://modrinth.com/mod/text-utilities)
-* WorldEdit - [Modrinth](https://modrinth.com/plugin/worldedit)
 
 Map mods:
 * Xaero's Minimap - [Modrinth](https://modrinth.com/mod/xaeros-minimap)
 * Xaero's World Map - [Modrinth](https://modrinth.com/mod/xaeros-world-map)
 
 Masa's mods:
-* Malilib - [Modrinth](https://modrinth.com/mod/malilib)
-* MiniHUD - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/minihud)
-* Item Scroller - [Modrinth](https://modrinth.com/mod/item-scroller)
-* Litematica - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/litematica)
-* Tweakeroo - [Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/tweakeroo)
+* Malilib - Jar file
+* MiniHUD - Jar file
+* Item Scroller - Jar file
+* Litematica - Jar file
+* Tweakeroo - Jar file
 
 Shaders and resource packs:
 * Vanilla tweaks selection of packs - [Vanilla Tweaks](https://vanillatweaks.net/)

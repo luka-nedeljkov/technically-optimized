@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21
 
+### 2.0.2 (2024-07-08) [FO version: 6.0.0-beta.2]
+
+* Updated Fabric API, ModernFix, ShulkerBoxTooltip
+* Removed WorldEdit
+* Temporarily removed CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, MoreCulling, Text Utilities
+
 ### 2.0.1 (2024-07-05) [FO version: 6.0.0-beta.2]
 
 * Readded Better Mount HUD

@@ -42,7 +42,7 @@
 		   OUTSIDE_BOTTOM: Always at the bottom of the item's tooltip.
 		   (default value: INSIDE)
 		*/
-		"position": "OUTSIDE_TOP",
+		"position": "OUTSIDE",
 		/* If on, large item counts in compact previews will be shortened.
 		   (default value: true)
 		*/

@@ -1,8 +1,0 @@
-name = "Litematica"
-filename = "litematica-fabric-1.21-0.18.999-sakura.14.jar"
-side = "client"
-
-[download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21-sakura.14/litematica-fabric-1.21-0.18.999-sakura.14.jar"
-hash-format = "sha1"
-hash = "a87e7e147e7e38d594623d1286ea490908c28139"
