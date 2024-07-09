@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "904160a890b8c4de36f2bfd0d803bb9d7e45aef956a5328664051af3abda490e"
-
-[[files]]
-file = "config/shulkerboxtooltip.json5"
-hash = "6aa7f8efd14a118b528b37e9aa5e43d754053d83589349b8a63bff320cb38995"
+hash = "417f5ad58f0694efae088459e999af78c1953cd46c58e6bf3699a8d72ff14827"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -57,6 +53,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "65f0f8412c9c8af19d8ec5575e996bb25780c122ebf237948f6224931064601b"
 
 [[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "6aa7f8efd14a118b528b37e9aa5e43d754053d83589349b8a63bff320cb38995"
+
+[[files]]
 file = "config/yosbr/config/tweakeroo.json"
 hash = "f8aedf924d100a249812b10cedaa5b65c3ef93271546241f0167369ad9f55714"
 
@@ -82,7 +82,7 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d86c86261c8193d925aeda8466579c81be1bb98e78cf5e8fa124ac1e7388d8e7"
+hash = "0ae0c9cd5ae1bbe219cee11c529fd2ea952cf4bc011670a521a1a7ee56261de6"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
+hash = "e72107c4e4156546f3ad34e0c8c759438e0971b3d096ca2be00cfd81d1570d6d"
 metafile = true
 
 [[files]]
@@ -244,6 +244,11 @@ hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "199d3618f925adddb3f09ff32ff9d302efa339e79fb44019c2d1b1b3a0579fe9"
+metafile = true
+
+[[files]]
 file = "mods/litematica-fabric-1.21-0.18.999-sakura.14.jar"
 hash = "adcdadde8cecd35a52cc4d3bdd0c894cd56e2e2fb8b7dda267a14ffc8d6ed71c"
 
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
+hash = "6c4021c5cf9017223bbc5dc0c735087baf39aa67a2d2f86e22c64b999e9efe79"
 metafile = true
 
 [[files]]
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/no-shield-delay.pw.toml"
+hash = "8d7ba316d945715f5381620972ef74aebb4500f3ded3d0e832ddaa5e3cdc9df4"
 metafile = true
 
 [[files]]
@@ -321,6 +331,11 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "780003058ae9154919ff2e788351a15fd32ff958d01aafcf215cf1c4e9c858d2"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "03fdecfb95c2475b5c401fdddd1be41b6e656ff67cfb56381b4dc6c387a2d8e7"
 metafile = true
@@ -346,8 +361,18 @@ hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
+file = "mods/stackable-shulkers-fix.pw.toml"
+hash = "de0652521b58390979fd4fd528113cec96374a0c1a20c0076966c9d2043732f3"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo-fabric-1.21-0.20.999-sakura.12.jar"
 hash = "4b47e82ae66cc9643805a134962d28434f78dc3261f485e03c17dcf58ba9e4eb"
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "34fe1ed3169ec00dbb9d6b8c9e4c1cc504888d195c3a2dd43975b2d10c69c370"
+metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"

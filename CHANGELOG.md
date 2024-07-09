@@ -3,7 +3,14 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21
 
-### 2.0.2 (2024-07-08) [FO version: 6.0.0-beta.2]
+### 2.0.3 (2024-07-09) [FO version: 6.0.0-beta.3]
+
+* Added LibJF, No Shield Delay, Respackopts, Stackable Shulkers Fix, WorldEdit
+* Updated ModernFix
+* Fixed server-side only mods not being installed
+* Temporarily removed CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, MoreCulling, Text Utilities
+
+### 2.0.2 (2024-07-08) [FO version: 6.0.0-beta.3]
 
 * Updated Fabric API, ModernFix, ShulkerBoxTooltip
 * Removed WorldEdit
