@@ -3,7 +3,14 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21
 
+### 2.0.5 (2024-07-31) [FO version: 6.0.0-beta.5]
+
+* Updated Architectury API, Cloth Config API, Cubes Without Borders, Dynamic FPS, e4mc, Fabric API, ModernFix, Polytone, WorldEdit
+    * Skipped Emoji Type and Remove Reloading Screen update as it requires new Fabric Loader which is currently in beta
+* Temporarily incompatible: CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, Text Utilities
+
 ### 2.0.4 (2024-07-18) [FO version: 6.0.0-beta.4]
+
 * Readded MoreCulling
 * Architectury API, Controlify, Fabric API, ModernFix, ShulkerBoxTooltip, Reese's Sodium Options, Stackable Shulkers Fix
     * Skipped Remove Reloading Screen update as it requires new Fabric Loader which is currently in beta
