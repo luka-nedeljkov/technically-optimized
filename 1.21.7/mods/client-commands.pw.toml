@@ -1,0 +1,13 @@
+name = "clientcommands"
+filename = "clientcommands-2.9.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Coz83fv/versions/xanJPwC8/clientcommands-2.9.3.jar"
+hash-format = "sha1"
+hash = "0735959d57bcac7d9e0734675ffa2711dc0e3754"
+
+[update]
+[update.modrinth]
+mod-id = "7Coz83fv"
+version = "xanJPwC8"
