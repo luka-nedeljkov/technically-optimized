@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21
 
+### 2.0.6 (2025-07-08) [FO version: 6.0.0-beta.5]
+
+* Updated Architectury, Carpet Extra, Client Commands, Cloth Config, Continuity, Controlify, Cubes without Borders, Dynamic FPS, e4mc, Enchanced Block Entities, Emoji Type, Entity Model Features, Entity Culling, Entity Texture Features, Fabric API, Fabric Language Kotlin, Fabrishot, Immediately Fast, Indium, Inventory Sorting, Iris, Lambdynamiclights, Language Reload, LibJF, Librarian Trade Finder, Lithium, ModernFix, Mod Menu, More Culling, No Chat Reports, No Shield Delay, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Remove Reloading Screen, Screenshot to Clipboard, Shulker Box Tooltip, Sodium Extra, Sodium, Stackable Shulkers Fix, Text Utilities, Worldedit, Xaero's Minimap, Xaero's World Map, Yet Another Config Lib, Zoomify
+* Readded CIT Resewn, Inventory Sorting, LambDynamicLights, Librarian Trade Finder, Text Utilities
+
 ### 2.0.5 (2024-07-31) [FO version: 6.0.0-beta.5]
 
 * Updated Architectury API, Cloth Config API, Cubes Without Borders, Dynamic FPS, e4mc, Fabric API, ModernFix, Polytone, WorldEdit
