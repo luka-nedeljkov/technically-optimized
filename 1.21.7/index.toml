@@ -6,7 +6,7 @@ hash = "237a993932c0555c2129d784df110afbabd1ae613f9dba7f08a5e172983396b0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "92599dc896fe110bc69a7b79d07deb3c762e864e805955c936a3d7f0da75764f"
+hash = "6eb9da0f520d9f7a912f565d8d250441baec8189d1b06e18eea98f37fad85ed2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -118,7 +118,7 @@ hash = "093c34c5d3c0e4d235c6861e0f98de8243e20c60223d154b4d0995803669c5b7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5019b9efd476c658b55a8925415985b72f41cfbc1e4f55329e6f600c31880be8"
+hash = "841f64caf8e7e08de5cb404f6fee08651d47a4bab9eb1f8cd91cdfa5c533bacf"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "2ad0245573d6745c040f51efeae33f6550b0cf1e5d34089cdacac03c660433a5"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "078aae80016dec244f2687b50e14a221af992f8d35a4c4948be660839337c15d"
 metafile = true
 
 [[files]]

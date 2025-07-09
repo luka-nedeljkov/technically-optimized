@@ -1,0 +1,13 @@
+name = "ClickThrough Plus"
+filename = "clickthrough-plus-fabric-3.5.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJi8nm80/versions/HK0GRjry/clickthrough-plus-fabric-3.5.1%2B1.21.4.jar"
+hash-format = "sha1"
+hash = "4cda6ff5919fa3adb140f72aa9cf0647bf3cf670"
+
+[update]
+[update.modrinth]
+mod-id = "fJi8nm80"
+version = "HK0GRjry"

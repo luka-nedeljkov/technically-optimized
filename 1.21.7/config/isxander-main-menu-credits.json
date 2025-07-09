@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Technically Optimized 3.0.0-alpha.1",
+        "text": "Technically Optimized 3.0.0-alpha.2",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/modpack/technicallyoptimized"

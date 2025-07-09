@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Technically Optimized](https://mod
 
 ## 1.21.7
 
+### 3.0.0-alpha.2 (2025-07-09) [FO version: 10.1.0-alpha.3]
+
+* Added ClickThrough Plus
+* Force-enabled Emoji Type
+* Temporarily incompatible: Better Ping Display, CIT Resewn, Continuity, Enhanced Block Entities, ModernFix, No Shield Delay, Polytone
+
 ### 3.0.0-alpha.1 (2025-07-08) [FO version: 10.1.0-alpha.3]
 
 **Update to 1.21.7**

@@ -26,6 +26,7 @@ key_key.togglePerspective:key.keyboard.t
 key_key.advancements:key.keyboard.unknown
 key_key.clickthrough.toggle:key.keyboard.unknown
 key_inventorysorter.key.config:key.keyboard.unknown
+key_inventorysorter.key.sort:key.keyboard.u
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_waypoints_key:key.keyboard.unknown
