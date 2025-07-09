@@ -1,13 +1,13 @@
 name = "Carpet"
-filename = "fabric-carpet-1.21-1.4.147+v240613.jar"
-side = "both"
+filename = "fabric-carpet-1.21.7-1.4.177+v250630.jar"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/RXcxPvgC/fabric-carpet-1.21.7-1.4.177%2Bv250630.jar"
 hash-format = "sha1"
-hash = "54f2907d83e67283d165336f26e5219d4bd36037"
-mode = "metadata:curseforge"
+hash = "8d4fa867040118d599545f340845e2e043a76dd5"
 
 [update]
-[update.curseforge]
-file-id = 5425253
-project-id = 349239
+[update.modrinth]
+mod-id = "TQTTVgYE"
+version = "RXcxPvgC"

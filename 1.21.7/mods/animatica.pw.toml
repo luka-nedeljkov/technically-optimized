@@ -1,13 +1,13 @@
 name = "Animatica"
-filename = "animatica-0.6.1+1.21.jar"
+filename = "animatica-0.6.1+1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PRN43VSY/versions/LHBm6fEV/animatica-0.6.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/CVlwSVpU/animatica-0.6.1%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "fd805fa03e25013b9fe824bf43f7d8a90f565c84"
+hash = "48746e8fbf005ffd4b7018cf37339a312865c57b"
 
 [update]
 [update.modrinth]
 mod-id = "PRN43VSY"
-version = "LHBm6fEV"
+version = "CVlwSVpU"

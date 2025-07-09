@@ -1,0 +1,13 @@
+name = "Forge Config API Port"
+filename = "ForgeConfigAPIPort-v21.7.0-1.21.7-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ohNO6lps/versions/mw50luix/ForgeConfigAPIPort-v21.7.0-1.21.7-Fabric.jar"
+hash-format = "sha1"
+hash = "e44c82bfad04ee6cc8882f67d5051eefec95f781"
+
+[update]
+[update.modrinth]
+mod-id = "ohNO6lps"
+version = "mw50luix"

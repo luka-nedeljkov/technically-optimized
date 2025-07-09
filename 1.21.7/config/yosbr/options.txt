@@ -1,4 +1,4 @@
-version:3953
+version:4438
 operatorItemsTab:true
 snooperEnabled:false
 enableVsync:false
@@ -24,10 +24,8 @@ key_key.sprint:key.keyboard.z
 key_key.chat:key.keyboard.enter
 key_key.togglePerspective:key.keyboard.t
 key_key.advancements:key.keyboard.unknown
-key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.librarian-trade-finder.select:key.keyboard.unknown
-key_key.librarian-trade-finder.toggle:key.keyboard.unknown
-key_key.librarian-trade-finder.config:key.keyboard.unknown
+key_key.clickthrough.toggle:key.keyboard.unknown
+key_inventorysorter.key.config:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_enlarge_map:key.keyboard.unknown
 key_gui.xaero_waypoints_key:key.keyboard.unknown

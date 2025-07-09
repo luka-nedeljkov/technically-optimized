@@ -1,6 +1,16 @@
 # Technically Optimized changelog
 This is the changelog for the Fabric modpack [Technically Optimized](https://modrinth.com/modpack/technicallyoptimized).
 
+## 1.21.7
+
+### 3.0.0-alpha.1 (2025-07-08) [FO version: 10.1.0-alpha.3]
+
+**Update to 1.21.7**
+* Added Forge Config API Port
+* Force-enabled Emoji Type
+* Removed Architechtury, FabricSkyBoxes, FabricSkyBoxes Interop, Indium, Librarian Trade Finder, Screenshot to Clipboard, Text Utilities
+* Temporarily incompatible: Better Ping Display, CIT Resewn, Continuity, Enhanced Block Entities, ModernFix, No Shield Delay, Polytone
+
 ## 1.21
 
 ### 2.0.6 (2025-07-08) [FO version: 6.0.0-beta.5]
